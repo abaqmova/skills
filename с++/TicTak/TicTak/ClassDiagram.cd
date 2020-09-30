@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TicTakBoard">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAcAAAAAAAAAACIAAAAAAACAQgEAAAQAQAICAIAAgA=</HashCode>
+      <FileName>TicTakBoard.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicTakManager">
+    <Position X="9.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAAAgACAAAAAAAAAAAAAAAAAAAAAAgCAoUACAAAAAAA=</HashCode>
+      <FileName>TicTakManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TicTakPlayer">
+    <Position X="5.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAEAAAAIAAAAAAAAAAAAABAEAgAAIAAAAACABAA=</HashCode>
+      <FileName>TicTakPlayer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CellType">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAACAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CellType.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

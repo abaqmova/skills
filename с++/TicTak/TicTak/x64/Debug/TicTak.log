@@ -1,0 +1,3 @@
+﻿  TicTakRandomPlayer.cpp
+c:\users\соня\source\repos\tictak\tictak\tictakboard.h(14): warning C4101: boardsize: неиспользованная локальная переменная
+c:\users\соня\source\repos\tictak\tictak\tictakboard.h(14): error C4716: TicTakBoard::GetSize: должна возвращать значение
